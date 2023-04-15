@@ -1,3 +1,2 @@
-mkdir Test
-cd Test
-pwd
+
+git pull
